@@ -1,0 +1,17 @@
+$primary-color: #ffffff;
+$yellow-bg: #f7b617;
+$gray-bg: #3e3f40;
+$arial-font: 'Arial';
+$base:15px;
+body{
+    margin: 0 auto;
+    font-family: $arial-font;
+}
+.header {
+    background-color: $yellow-bg;
+    padding: 15px;
+    h1 {
+        color: $primary-color;
+    }
+}
+

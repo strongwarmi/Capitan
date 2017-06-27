@@ -1,0 +1,11 @@
+body {
+  margin: 0 auto;
+  font-family: "Arial"; }
+
+.header {
+  background-color: #f7b617;
+  padding: 15px; }
+  .header h1 {
+    color: #ffffff; }
+
+/*# sourceMappingURL=style.css.map */
