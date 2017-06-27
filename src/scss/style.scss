@@ -2,16 +2,29 @@ $primary-color: #ffffff;
 $yellow-bg: #f7b617;
 $gray-bg: #3e3f40;
 $arial-font: 'Arial';
-$base:15px;
+$base: 15px;
+$padding: 15px;
 body{
     margin: 0 auto;
     font-family: $arial-font;
 }
 .header {
     background-color: $yellow-bg;
-    padding: 15px;
+    padding: $padding;
     h1 {
         color: $primary-color;
+    }
+}
+.container{
+    padding: $padding;
+    
+}
+.footer{
+    background-color: $gray-bg;
+    padding: $padding;
+    p{
+        color: $primary-color;
+        text-align: center;
     }
 }
 

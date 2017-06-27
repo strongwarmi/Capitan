@@ -8,4 +8,14 @@ body {
   .header h1 {
     color: #ffffff; }
 
+.container {
+  padding: 15px; }
+
+.footer {
+  background-color: #3e3f40;
+  padding: 15px; }
+  .footer p {
+    color: #ffffff;
+    text-align: center; }
+
 /*# sourceMappingURL=style.css.map */
